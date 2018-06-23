@@ -1,1 +1,3 @@
-# Simpsnon-clicker
+# Simpson-clicker
+
+Currently working in local host github pages does not deploy correctly.
